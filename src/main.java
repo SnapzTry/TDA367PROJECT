@@ -5,5 +5,4 @@ public class main {
     //hej
     //hejsan
     //hejdå
-    //hejhej
 }
